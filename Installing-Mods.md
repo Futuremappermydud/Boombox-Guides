@@ -3,7 +3,7 @@
 ## Step One: Install BepinEx
 
 1. Go to https://github.com/BepInEx/BepInEx/releases/latest .
-2. Download "BepInEx_x64_5.4.9.0.zip".
+2. Download "BepInEx_x64\_.\_.\_.\_.zip".
 3. Drag this into the boombox folder, which is something like 
 "D:\SteamLibrary\steamapps\common\BoomBox\" or "C:\Program Files (x86)\Steam\steamapps\common\BoomBox\".
 4. Run BoomBox to generate files.
